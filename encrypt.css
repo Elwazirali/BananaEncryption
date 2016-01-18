@@ -1,0 +1,65 @@
+body { 
+  background: url(j-encryptionbackground.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.8;
+}
+body{
+    margin-top:15%;
+    padding:0;  
+}
+td{
+	margin-top: 40%;
+	width:1%;
+	text-align:left;
+}
+#first{
+	position: absolute;
+	margin-top: 25%;
+	margin-left: 50%;
+}
+#textstyle1{
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Calibri, sans-sherif;
+	font-size: 15px;
+}
+#textstyle2{
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Calibri, sans-sherif;
+	font-size: 15px;
+}
+#titles{
+	font-family: Calibri, sans-sherif;
+	color: white;
+	font-size: 20px;
+}
+.originaltext
+{
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 0px;
+	opacity: 0.75;
+	
+}
+.result
+{
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 50%;
+	opacity: 0.75;
+}
+.encryption
+{
+	font-family: "Calibri", cursive, sans-serif;
+	margin-top: 30px;
+	margin-left: 40%;
+	background-color: white;
+	cursor: pointer;
+	overflow: hidden;
+	font-size: 14px;
+	background-repeat:no-repeat;
+}
